@@ -4,7 +4,7 @@ python based speech converter. User can give input in any language and get outpu
 
 # Requirements
 # python 3.6
-#pip install gTTS
+#pip install gTTS \n
 #pip install googletrans
 #pip install pyAudio
 #pip install speechrecognition
