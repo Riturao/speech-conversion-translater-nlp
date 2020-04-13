@@ -2,19 +2,20 @@
 python based speech converter. User can give input in any language and get output audio in desired language.
 
 
-# Requirements
-# python 3.6
-#pip install gTTS \n
-#pip install googletrans
-#pip install pyAudio
-#pip install speechrecognition
-#pip install google-speech
-#pip install pyttsx3
-#pip install playsound
-#pip install ffmpeg
+# Requirements <br>
+# python 3.6 <br>
+install these modules <br>
+#pip install gTTS <br>
+#pip install googletrans <br>
+#pip install pyAudio <br>
+#pip install speechrecognition <br>
+#pip install google-speech <br>
+#pip install pyttsx3 <br>
+#pip install playsound <br>
+#pip install ffmpeg <br>
 
-# user has to give Input and output language code for speech traslation/ converter
-# user can also upload any audio in mp3 format and specify the input language code and expected output language code
+# User has to give Input and output language code for speech traslation/ converter
+# User can also upload any audio in mp3 format and specify the input language code and expected output language code
 
 
 Refer them for input and output Language codes  (also available during execution)
